@@ -1,0 +1,7 @@
+{
+  "name": "IELTS Master AI",
+  "description": "A comprehensive AI-powered preparation tool for IELTS students featuring personalized study planning, automated writing grading, and speaking simulation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
